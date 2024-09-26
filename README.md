@@ -1,5 +1,5 @@
 <p align="center">
-<img src="MSOffice/src/logo.png" style="width:20vw; height:37vh;">
+<img src="MSOffice/src/logo.png" style="width: 288px">
 </p>
 
 <p align="justify">We all want to use many services legally. But due to many situations we can't buy those services. On the other hand, we need those services very badly. Due to downloading from many infamous sources, we often fall into many complications. But often there remains some loophole to use those services legally.</p>
