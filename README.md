@@ -8,4 +8,5 @@
 
 ### Added tutorials:
 
-**1.** [How to install and activate Microsoft Office the most customized way](https://github.com/d0ub1e-A/Free-for-all/blob/c7e1f875068768f07d9fb8a5d69e97454f7d175b/MSOffice/MSOffice.md)
+**1.** [How to install and activate Microsoft Office the most customized way](https://github.com/d0ub1e-A/Free-for-all/MSOffice/MSOffice.md)
+**2.** [How to generate a new ssh key for your local device](https://github.com/d0ub1e-A/Free-for-all/SSH-key-gen/ssh-key-gen-seq.md)
